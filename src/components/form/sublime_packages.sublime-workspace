@@ -1,0 +1,1766 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"req",
+				"require〔function〕"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"desi",
+				"designers"
+			],
+			[
+				"test",
+				"testtape\ttestTape"
+			],
+			[
+				"long",
+				"longString〔argument〕"
+			],
+			[
+				"contro",
+				"controllerExpress\tcontrollerExpress"
+			],
+			[
+				"tes",
+				"testtape\ttestTape"
+			],
+			[
+				"is",
+				"isGreaterNumber"
+			],
+			[
+				"Add",
+				"Add__section-rates"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"justi",
+				"justify-content\tproperty"
+			],
+			[
+				"fon",
+				"font-family\tproperty"
+			],
+			[
+				"amo",
+				"amount.units"
+			],
+			[
+				"field",
+				"fieldset"
+			],
+			[
+				"ADD",
+				"Add__section-rates"
+			],
+			[
+				"fiel",
+				"fieldset__input-side"
+			],
+			[
+				"se",
+				"section\t<section>"
+			],
+			[
+				"text",
+				"textarea\t<textarea>"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"fie",
+				"fieldset__input"
+			],
+			[
+				"Add__",
+				"Add__fieldset"
+			],
+			[
+				"grid-c",
+				"grid-column\tproperty"
+			],
+			[
+				"gri",
+				"grid-rows: 〔property〕"
+			],
+			[
+				"grid",
+				"grid-columns: 〔property〕"
+			],
+			[
+				"grid-col",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"overflow",
+				"overflow-y\tproperty"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"alig",
+				"align-self\tproperty"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"Sea",
+				"Search__button"
+			],
+			[
+				"Seart",
+				"Search__input"
+			],
+			[
+				"FILET",
+				"FILTER_AND_SET_QUERY_RESULTS"
+			],
+			[
+				"grid-template",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"rgb",
+				"rgba()\tbackground-color"
+			],
+			[
+				"fals",
+				"falsyID"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"Preo",
+				"ProductCard__specs"
+			],
+			[
+				"co",
+				"column\tflex-direction"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"tap",
+				"tap-spec"
+			],
+			[
+				"conso",
+				"console.log('*******JOJOJOTEST"
+			],
+			[
+				"con",
+				"con\tconsole-log"
+			],
+			[
+				"valida",
+				"validateString〔variable〕"
+			],
+			[
+				"seed",
+				"seedProducts"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"send",
+				"sendMail"
+			],
+			[
+				"font",
+				"font-style\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"svg",
+				"svg-logo-mob"
+			],
+			[
+				"Navigation",
+				"Navigation__rect"
+			],
+			[
+				"N",
+				"Navigation__rect"
+			],
+			[
+				"Navigat",
+				"NavigationMov__tspan"
+			],
+			[
+				"Navig",
+				"NavigationMov__text--welcome"
+			],
+			[
+				"Navi",
+				"NavigationMov__text--welcome"
+			],
+			[
+				"Connect",
+				"Connectors__up"
+			],
+			[
+				"scale",
+				"scaleFactors〔variable〕"
+			],
+			[
+				"rever",
+				"reversedFibNumbers〔variable〕"
+			],
+			[
+				"this",
+				"this.arrayOfSeries.fibNumbers.slice"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"set",
+				"setLetterHeights"
+			],
+			[
+				"style",
+				"stylesheet〔variable〕"
+			],
+			[
+				"arra",
+				"arrayOfSeries"
+			],
+			[
+				"revers",
+				"reversedFibNumbers"
+			],
+			[
+				"Let",
+				"Letters--a"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"alp",
+				"alphabetString〔variable〕"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"fi",
+				"fibonacciNumbers"
+			],
+			[
+				"arr",
+				"arrayOfSeries"
+			],
+			[
+				"num",
+				"numberOfElements"
+			],
+			[
+				"just",
+				"justify-items"
+			],
+			[
+				"We",
+				"Welcome__data"
+			],
+			[
+				"Co",
+				"Connectors__up"
+			],
+			[
+				"Connec",
+				"Connectors__down"
+			],
+			[
+				"acti",
+				"active"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"transition",
+				"transition\tproperty"
+			],
+			[
+				"Letters",
+				"Letters--blurred"
+			],
+			[
+				"Svg",
+				"Svg__connector-bridge"
+			],
+			[
+				"hom",
+				"homepage"
+			],
+			[
+				"tran",
+				"transition\ttransitionVue"
+			],
+			[
+				"HAN",
+				"HANDLE_NAVIGATION_STATUS"
+			],
+			[
+				"main",
+				"main-home"
+			],
+			[
+				"pro",
+				"production"
+			],
+			[
+				"data",
+				"dataObj"
+			],
+			[
+				"button--state",
+				"button--state-submit"
+			],
+			[
+				"show",
+				"showOnlineStreams"
+			],
+			[
+				"grid-templa",
+				"grid-template-columns"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"sli",
+				"sliceString"
+			],
+			[
+				"geo",
+				"geocodeUrl〔variable〕"
+			],
+			[
+				"Wiki__se",
+				"Wiki__search-icon"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"re",
+				"repeat"
+			],
+			[
+				"a",
+				"a\t<a>"
+			],
+			[
+				"icon_",
+				"icon__randomDice-svg"
+			],
+			[
+				"optin",
+				"options"
+			],
+			[
+				"inner",
+				"innerWidth"
+			],
+			[
+				"wi",
+				"window"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"inn",
+				"innerHeight〔variable〕"
+			],
+			[
+				"primes",
+				"primesArr〔variable〕"
+			],
+			[
+				"res",
+				"resultStr〔argument〕"
+			],
+			[
+				"boo",
+				"booWho〔function〕"
+			],
+			[
+				"source",
+				"sourceKeys"
+			],
+			[
+				"sour",
+				"sourceValues〔variable〕"
+			],
+			[
+				"encode",
+				"encodedQuote"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"twe",
+				"tweetUrl"
+			],
+			[
+				"en",
+				"encodedQuote"
+			],
+			[
+				"movie",
+				"movieQuotes〔variable〕"
+			],
+			[
+				"weat",
+				"weatherForecast〔variable〕"
+			],
+			[
+				"mod",
+				"mod\tmoduleSingleExport"
+			],
+			[
+				"geocode",
+				"geocodeUrl"
+			],
+			[
+				"geoco",
+				"geocodeApiKey〔variable〕"
+			],
+			[
+				"grid-te",
+				"grid-template-columns"
+			],
+			[
+				"geocode_",
+				"geocode_api_key"
+			],
+			[
+				"Wat",
+				"Weather__data"
+			],
+			[
+				"fetch",
+				"fetchOthersWeather"
+			],
+			[
+				"uni",
+				"unitTemp〔variable〕"
+			],
+			[
+				"config",
+				"configApi"
+			],
+			[
+				"get",
+				"getFullConfigForApi"
+			],
+			[
+				"we",
+				"weatherApi"
+			],
+			[
+				"map",
+				"mapActions"
+			],
+			[
+				"HAND",
+				"HANDLE_GEOLOCATION_SUCCESS"
+			],
+			[
+				"Han",
+				"HANDLE_GEOLOCATION_SUCCESS"
+			],
+			[
+				"fet",
+				"fetchOthersWeather"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"instal\t",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"per",
+				"Permute Lines: Unique"
+			],
+			[
+				"permu",
+				"Permute Lines: Unique"
+			],
+			[
+				"colo",
+				"UI: Select Color Scheme"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"PER",
+				"Permute Lines: Unique"
+			],
+			[
+				"perm",
+				"Permute Lines: Unique"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"valida",
+				"JsValidate"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"wrar",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"incre",
+				"Increment Selection"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"increm",
+				"Increment Selection"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"wrao",
+				"Word Wrap: Toggle"
+			],
+			[
+				"regular",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"them",
+				"UI: Select Theme"
+			],
+			[
+				"uppe\t",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sub",
+				"Snippet: subTitleComment"
+			],
+			[
+				"un",
+				"Code Folding: Unfold All"
+			],
+			[
+				"subt",
+				"Snippet: subTitleComment"
+			],
+			[
+				"lo\t",
+				"Convert Case: Lower Case"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"Tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"Uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"enco",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"su",
+				"Snippet: subTitleComment"
+			],
+			[
+				"Ti\t",
+				"Convert Case: Title Case"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"markd",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"titl",
+				"Convert Case: Title Case"
+			],
+			[
+				"subti",
+				"Snippet: subTitleComment"
+			],
+			[
+				"bookmar",
+				"Bookmarks: Clear All"
+			],
+			[
+				"uppe",
+				"Convert Case: Upper Case"
+			],
+			[
+				"tit",
+				"Snippet: titleComment"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"title",
+				"Snippet: titleComment"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"set vue",
+				"Set Syntax: Vue Component"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"reiden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"colorp",
+				"Color Picker"
+			],
+			[
+				"uppr",
+				"Convert Case: Upper Case"
+			],
+			[
+				"material",
+				"Material Theme: Activate theme"
+			],
+			[
+				"show",
+				"GitGutter: Show Diff Popup"
+			],
+			[
+				"sinppet: comm",
+				"Snippet: titleComment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Menu"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"bar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"side ",
+				"View: Toggle Side Bar"
+			],
+			[
+				"upperca",
+				"Convert Case: Upper Case"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"lo",
+				"Convert Case: Lower Case"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"SWA",
+				"Convert Case: Swap Case"
+			],
+			[
+				"UPP",
+				"Convert Case: Upper Case"
+			],
+			[
+				"MENU",
+				"View: Toggle Menu"
+			],
+			[
+				"con",
+				"Convert Case: Upper Case"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"must",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"VI",
+				"View In Browser"
+			],
+			[
+				"VIEW",
+				"View In Browser"
+			],
+			[
+				"veiw",
+				"View In Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"mark\t",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"conver",
+				"Convert Case: Upper Case"
+			],
+			[
+				" word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"html wi",
+				"Set Syntax: HTML with mustaches"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: requireFile"
+			],
+			[
+				"Snippet: fi",
+				"Snippet: requireFile"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: co",
+				"Package Control: Discover Packages"
+			],
+			[
+				"filter",
+				"Filter Lines: Fold With Regex"
+			],
+			[
+				"add",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 339.0,
+		"history":
+		[
+			"asd",
+			"cls",
+			"ckls",
+			"cl",
+			"sl",
+			"cl",
+			"clear",
+			"let x = 0",
+			"help",
+			"node",
+			"ls",
+			"la",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/kameush/.config/sublime-text-3/Packages/User",
+		"/home/kameush/.config/sublime-text-3/Packages/User/javascript"
+	],
+	"file_history":
+	[
+		"/home/kameush/.config/sublime-text-3/Packages/User/javascript/templateVue.sublime-snippet",
+		"/home/kameush/.thunderbird/v1pld1u1.default/chrome/userChrome.css",
+		"/home/kameush/Antiques/www/product-viewer/server/models/Manufacturer.js",
+		"/home/kameush/Antiques/www/product-viewer/server/controllers/manufacturers.js",
+		"/home/kameush/Antiques/www/product-viewer/server/helpers/convert.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/manufacturers.test.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/designers.test.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/helpers.test.js",
+		"/home/kameush/Antiques/www/product-viewer/server/helpers/validate.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/csv.test.js",
+		"/home/kameush/Antiques/www/product-viewer/server/controllers/designers.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/products.test.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/seed/index.js",
+		"/home/kameush/Antiques/www/product-viewer/server/controllers/index.js",
+		"/home/kameush/Antiques/www/product-viewer/public/dictionary.js",
+		"/home/kameush/Antiques/www/product-viewer/server/models/Designer.js",
+		"/home/kameush/Antiques/www/product-viewer/server/controllers/products.js",
+		"/home/kameush/Antiques/www/product-viewer/ERASETOERASE.html",
+		"/home/kameush/Antiques/www/product-viewer/server/models/Product.js",
+		"/home/kameush/Antiques/www/product-viewer/.eslintignore",
+		"/home/kameush/Antiques/www/product-viewer/server/helpers/index.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/seed/data.csv",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/validation.test.js",
+		"/home/kameush/Antiques/www/product-viewer/package.json",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/designers.tests.js",
+		"/media/kameush/Nico HHD/backup/2018jul/.codeintel/README.txt",
+		"/home/kameush/UoPeople/ENGL 0101/Readings/To build A Fire.doc",
+		"/home/kameush/.rsyncignore",
+		"/home/kameush/Antiques/www/product-viewer/server/helpers/parse.js",
+		"/home/kameush/Antiques/www/product-viewer/public/index.html",
+		"/home/kameush/Antiques/www/product-viewer/server/controllers/api.js",
+		"/home/kameush/Antiques/www/product-viewer/server/dictionary.js",
+		"/home/kameush/Antiques/www/product-viewer/server/controllers/specs.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/specs.test.js",
+		"/home/kameush/Antiques/www/product-viewer/server/db/mongoose.js",
+		"/home/kameush/.config/sublime-text-3/Packages/User/javascript/testTape.sublime-snippet",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/db.test.js",
+		"/home/kameush/Notes/programming/.bashCommands",
+		"/home/kameush/Antiques/www/product-viewer/src/components/ProductCard.vue",
+		"/home/kameush/Antiques/www/product-viewer/product-viewer.sublime-project",
+		"/home/kameush/Antiques/www/product-viewer/src/views/Add.vue",
+		"/home/kameush/Antiques/www/product-viewer/src/store.js",
+		"/home/kameush/Antiques/www/product-viewer/src/App.vue",
+		"/home/kameush/Antiques/www/product-viewer/server/middleware/index.js",
+		"/home/kameush/Antiques/www/product-viewer/src/views/Search.vue",
+		"/home/kameush/Antiques/www/product-viewer/src/components/Footer.vue",
+		"/home/kameush/Antiques/www/product-viewer/src/views/Home.vue",
+		"/home/kameush/Antiques/www/product-viewer/src/router.js",
+		"/home/kameush/Antiques/www/product-viewer/server/app.js",
+		"/home/kameush/Antiques/www/product-viewer/src/views/Edit.vue",
+		"/home/kameush/Antiques/www/product-viewer/serverBAK/tests/server.test.js",
+		"/home/kameush/Antiques/www/product-viewer/serverBAK/app.js",
+		"/home/kameush/Antiques/www/product-viewer/dist/index.html",
+		"/home/kameush/Antiques/www/product-viewer/.gitignore",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/db.tests.js",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/seed/wrong.csv",
+		"/home/kameush/Antiques/www/product-viewer/server/config/config.json",
+		"/home/kameush/Antiques/www/product-viewer/server/tests/testSample/app.test.js",
+		"/home/kameush/Antiques/www/product-viewer/server/config/index.js",
+		"/home/kameush/.config/sublime-text-3/Packages/User/javascript/subtitle.sublime-snippet",
+		"/home/kameush/www/Nikameush/nikameushWeb.sublime-project",
+		"/home/kameush/www/Nikameush/nikameushWeb.sublime-workspace",
+		"/home/kameush/Antiques/www/product-viewer/server/utils/convert.js",
+		"/media/kameush/6617-495C/Clarion 10.0 Version/Sockettools.txt",
+		"/home/kameush/Antiques/node-utils/stock05-07-2018.csv",
+		"/home/kameush/Antiques/node-utils/server/tests/seed/wrong.csv",
+		"/home/kameush/Antiques/node-utils/server/models/Product.js",
+		"/home/kameush/Antiques/node-utils/server/tests/seed/data.csv",
+		"/home/kameush/Antiques/node-utils/server/config/index.js",
+		"/home/kameush/Antiques/node-utils/server/db/mongoose.js",
+		"/home/kameush/Antiques/node-utils/server/middleware/index.js",
+		"/home/kameush/Antiques/node-utils/server/utils/index.js",
+		"/home/kameush/Antiques/node-utils/server/config/config.json",
+		"/home/kameush/Antiques/node-utils/server/tests/seed/index.js",
+		"/home/kameush/Antiques/node-utils/server/tests/testSample/app.test.js",
+		"/home/kameush/Antiques/node-utils/server/tests/testSample/seed/seed.js",
+		"/home/kameush/Antiques/node-utils/server/models/product.js",
+		"/home/kameush/Antiques/node-utils/server/models/productR.js",
+		"/home/kameush/Antiques/node-utils/server/utils/dictionary.js",
+		"/home/kameush/Antiques/node-utils/server/app.js",
+		"/home/kameush/Antiques/node-utils/server/tests/seed/seed.js",
+		"/home/kameush/Antiques/node-utils/node-utils.sublime-project",
+		"/home/kameush/Antiques/node-utils/.gitignore",
+		"/home/kameush/Antiques/node-utils/files/countries.csv",
+		"/home/kameush/Antiques/node-utils/output/invCOPY.json",
+		"/home/kameush/Antiques/node-utils/output/inv.json",
+		"/home/kameush/Antiques/stockM__28-06-2018.csv",
+		"/home/kameush/Antiques/stockM[description]__28-06-2018.csv",
+		"/home/kameush/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/kameush/Antiques/Archive/Notas/readmePH.txt",
+		"/home/kameush/Antiques/optimazedDB.json",
+		"/home/kameush/.local/share/applications/.local/share/applications/mimeapps.list",
+		"/home/kameush/UoPeople/ENGL 0101/Untitled text",
+		"/home/kameush/.local/share/applications/mimeapps.list",
+		"/home/kameush/Antiques/www/product-viewer/insertProducts.sql",
+		"/home/kameush/Antiques/www/product-viewer/tableProducts.sql",
+		"/home/kameush/www/PinoMore/bio.txt",
+		"/home/kameush/Antiques/www/product-viewer/src/assets/productsList.json",
+		"/home/kameush/Desktop/consulta.js",
+		"/home/kameush/Antiques/www/product-viewer/src/assets/productsList.txt",
+		"/home/kameush/Antiques/www/product-viewer/src/assets/list-products.json",
+		"/home/kameush/Antiques/www/product-viewer/src/.App.vue.swp",
+		"/home/kameush/www/Nikameush/server/api/index.js",
+		"/home/kameush/www/Nikameush/src/store/index.js",
+		"/home/kameush/www/Nikameush/static/css/stylesheet.css",
+		"/home/kameush/www/Nikameush/src/components/WelcomeMobile.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/SvgMobile.vue",
+		"/home/kameush/www/Nikameush/src/components/Welcome.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/Bio.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/Contact.vue",
+		"/home/kameush/www/Nikameush/dist/static/globalStyles.css",
+		"/home/kameush/www/Nikameush/src/components/welcome/mobile/LogoMob.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/mobile/NavigationMob.vue",
+		"/home/kameush/www/Nikameush/svg/mobile/Nikameush__letters--mobil.opt.svg",
+		"/home/kameush/www/Nikameush/src/components/welcome/SvgTest.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/SvgHome.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/Alphabet.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/mobile/LettersMob.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/Letters.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/mobile/ConnectorsMob.vue",
+		"/home/kameush/www/Nikameush/svg/mobile/Nikameush__logo--mobil2.opt.svg",
+		"/home/kameush/www/Nikameush/svg/mobile/Nikameush__logo--mobil.opt.svg",
+		"/home/kameush/www/Nikameush/src/components/welcome/Navigation.vue",
+		"/home/kameush/www/Nikameush/svg/mobile/Nikameush__navigation--mobil.opt.svg",
+		"/home/kameush/www/Nikameush/svg/mobile/Nikameush__connectors--mobil.opt.svg",
+		"/home/kameush/www/Nikameush/src/components/welcome/Logo.vue",
+		"/home/kameush/www/Nikameush/src/components/welcome/Connectors.vue",
+		"/home/kameush/Documents/svg/Letters/optimized/Letters__horizontal3.svg"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 77.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 318.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 55.0
+	},
+	"pinned_build_system": "Packages/User/JavaScript.sublime-build",
+	"project": "sublime_packages.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"vue",
+				"javascript/templateVue.sublime-snippet"
+			],
+			[
+				"ProdI",
+				"src/components/form/ProductInfo.vue"
+			],
+			[
+				"add",
+				"src/views/Add.vue"
+			],
+			[
+				"manu",
+				"server/tests/manufacturers.test.js"
+			],
+			[
+				"helper",
+				"server/tests/helpers.test.js"
+			],
+			[
+				"valida",
+				"server/helpers/validate.js"
+			],
+			[
+				"csv",
+				"server/tests/csv.test.js"
+			],
+			[
+				"des",
+				"server/tests/designers.test.js"
+			],
+			[
+				"pro",
+				"server/tests/products.test.js"
+			],
+			[
+				"Ma",
+				"server/models/Manufacturer.js"
+			],
+			[
+				"Manu",
+				"server/controllers/manufacturers.js"
+			],
+			[
+				"dic",
+				"public/dictionary.js"
+			],
+			[
+				"seed",
+				"server/tests/seed/index.js"
+			],
+			[
+				"dei",
+				"server/tests/designers.test.js"
+			],
+			[
+				"contro",
+				"server/controllers/index.js"
+			],
+			[
+				"maun",
+				"server/controllers/manufacturers.js"
+			],
+			[
+				"desi",
+				"server/tests/designers.test.js"
+			],
+			[
+				"Design",
+				"server/models/Designer.js"
+			],
+			[
+				"hel",
+				"server/helpers/convert.js"
+			],
+			[
+				"Produ",
+				"server/models/Product.js"
+			],
+			[
+				"prod",
+				"server/controllers/products.js"
+			],
+			[
+				"vali",
+				"server/helpers/validate.js"
+			],
+			[
+				"design",
+				"server/controllers/designers.js"
+			],
+			[
+				"Des",
+				"server/models/Designer.js"
+			],
+			[
+				"data",
+				"server/tests/seed/data.csv"
+			],
+			[
+				"convert",
+				"server/helpers/convert.js"
+			],
+			[
+				"help",
+				"server/helpers/index.js"
+			],
+			[
+				"Pro",
+				"server/models/Product.js"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"eslin",
+				".eslintignore"
+			],
+			[
+				"produ",
+				"server/controllers/products.js"
+			],
+			[
+				"Desi",
+				"server/models/Designer.js"
+			],
+			[
+				"test",
+				"server/tests/designers.test.js"
+			],
+			[
+				"produc",
+				"server/tests/products.test.js"
+			],
+			[
+				"index",
+				"server/controllers/index.js"
+			],
+			[
+				"dicti",
+				"public/dictionary.js"
+			],
+			[
+				"inde",
+				"public/index.html"
+			],
+			[
+				"designer",
+				"server/tests/designers.test.js"
+			],
+			[
+				"api",
+				"server/controllers/api.js"
+			],
+			[
+				"tests/pro\t",
+				"server/tests/products.test.js"
+			],
+			[
+				"conver",
+				"server/helpers/convert.js"
+			],
+			[
+				"seed/data",
+				"server/tests/seed/data.csv"
+			],
+			[
+				"Prod",
+				"server/models/Product.js"
+			],
+			[
+				"diction",
+				"server/dictionary.js"
+			],
+			[
+				"idnex",
+				"server/controllers/index.js"
+			],
+			[
+				"mon",
+				"server/db/mongoose.js"
+			],
+			[
+				"controll",
+				"server/controllers/specs.js"
+			],
+			[
+				"cs",
+				"server/tests/csv.test.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"spe",
+				"server/tests/specs.test.js"
+			],
+			[
+				"csv.",
+				"server/tests/csv.test.js"
+			],
+			[
+				"",
+				"server/db/mongoose.js"
+			],
+			[
+				"db",
+				"server/tests/db.test.js"
+			],
+			[
+				"ac",
+				"package.json"
+			],
+			[
+				"mongoo",
+				"server/db/mongoose.js"
+			],
+			[
+				"sub",
+				"product-viewer.sublime-project"
+			],
+			[
+				"aDD",
+				"src/views/Add.vue"
+			],
+			[
+				"store",
+				"src/store.js"
+			],
+			[
+				"control",
+				"server/controllers/products.js"
+			],
+			[
+				"mid",
+				"server/middleware/index.js"
+			],
+			[
+				"App",
+				"src/App.vue"
+			],
+			[
+				"Add",
+				"src/views/Add.vue"
+			],
+			[
+				"helperes",
+				"server/helpers/index.js"
+			],
+			[
+				"parse",
+				"server/helpers/parse.js"
+			],
+			[
+				"Searc",
+				"src/views/Search.vue"
+			],
+			[
+				"product",
+				"server/controllers/products.js"
+			],
+			[
+				"midd",
+				"server/middleware/index.js"
+			],
+			[
+				"Foot",
+				"src/components/Footer.vue"
+			],
+			[
+				"app",
+				"server/app.js"
+			],
+			[
+				"Sear",
+				"src/views/Search.vue"
+			],
+			[
+				"Edit",
+				"src/views/Edit.vue"
+			],
+			[
+				"foot",
+				"src/components/Footer.vue"
+			],
+			[
+				"router",
+				"src/router.js"
+			],
+			[
+				"Ap",
+				"src/App.vue"
+			],
+			[
+				"foo",
+				"src/components/Footer.vue"
+			],
+			[
+				"Hom e",
+				"src/views/Home.vue"
+			],
+			[
+				"server.test",
+				"serverBAK/tests/server.test.js"
+			],
+			[
+				"serverBAK",
+				"serverBAK/app.js"
+			],
+			[
+				"serverBAK/test",
+				"serverBAK/tests/server.test.js"
+			],
+			[
+				"helpers",
+				"server/helpers/index.js"
+			],
+			[
+				"aded",
+				"src/views/Add.vue"
+			],
+			[
+				"sto",
+				"src/store.js"
+			],
+			[
+				"Produc",
+				"server/models/Product.js"
+			],
+			[
+				"db.test",
+				"server/tests/db.test.js"
+			],
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				".i",
+				".gitignore"
+			],
+			[
+				"wro",
+				"server/tests/seed/wrong.csv"
+			],
+			[
+				"data.csv",
+				"server/tests/seed/data.csv"
+			],
+			[
+				"models",
+				"server/models/Product.js"
+			],
+			[
+				"config",
+				"server/config/config.json"
+			],
+			[
+				"dictio",
+				"server/dictionary.js"
+			],
+			[
+				"app.tes",
+				"server/tests/testSample/app.test.js"
+			],
+			[
+				"con",
+				"server/config/index.js"
+			],
+			[
+				"middle",
+				"server/middleware/index.js"
+			],
+			[
+				"rou",
+				"src/router.js"
+			],
+			[
+				"conve",
+				"server/helpers/convert.js"
+			],
+			[
+				"middl",
+				"server/middleware/index.js"
+			],
+			[
+				"wron",
+				"server/tests/seed/wrong.csv"
+			],
+			[
+				"utils",
+				"server/utils/index.js"
+			],
+			[
+				"conf",
+				"server/config/config.json"
+			],
+			[
+				"c",
+				"server/config/config.json"
+			],
+			[
+				"model",
+				"server/models/product.js"
+			],
+			[
+				"app.test",
+				"server/tests/app.test.js"
+			],
+			[
+				"Home",
+				"src/views/Home.vue"
+			],
+			[
+				"styl",
+				"static/css/stylesheet.css"
+			],
+			[
+				"Svg",
+				"src/components/welcome/SvgMobile.vue"
+			],
+			[
+				"welcom",
+				"src/components/Welcome.vue"
+			],
+			[
+				"Cont",
+				"src/components/welcome/Contact.vue"
+			],
+			[
+				"Bi",
+				"src/components/welcome/Bio.vue"
+			],
+			[
+				"css",
+				"static/css/stylesheet.css"
+			],
+			[
+				"Contact",
+				"src/components/welcome/Contact.vue"
+			],
+			[
+				"Lo",
+				"src/components/welcome/mobile/LogoMob.vue"
+			],
+			[
+				"Na",
+				"src/components/welcome/mobile/NavigationMob.vue"
+			],
+			[
+				"glo",
+				"dist/static/globalStyles.css"
+			],
+			[
+				"Conta",
+				"src/components/welcome/Contact.vue"
+			],
+			[
+				"Contac",
+				"src/components/welcome/Contact.vue"
+			],
+			[
+				"Welc",
+				"src/components/WelcomeMobile.vue"
+			],
+			[
+				"letter",
+				"src/components/welcome/Letters.vue"
+			],
+			[
+				"Alphate",
+				"src/components/welcome/Alphabet.vue"
+			],
+			[
+				"Alp",
+				"src/components/welcome/Alphabet.vue"
+			],
+			[
+				"Letter",
+				"src/components/welcome/mobile/LettersMob.vue"
+			],
+			[
+				"svg/mobil",
+				"svg/mobile/Nikameush__letters--mobil.opt.svg"
+			],
+			[
+				"svg/mobile",
+				"svg/mobile/Nikameush__letters--mobil.opt.svg"
+			],
+			[
+				"logo",
+				"svg/mobile/Nikameush__logo--mobil2.opt.svg"
+			],
+			[
+				"svg/mo",
+				"svg/mobile/Nikameush__logo--mobil.opt.svg"
+			],
+			[
+				"Naa",
+				"src/components/welcome/mobile/NavigationMob.vue"
+			],
+			[
+				"na",
+				"src/components/welcome/Navigation.vue"
+			],
+			[
+				"Connect",
+				"src/components/welcome/mobile/ConnectorsMob.vue"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 416.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 316.0
+	},
+	"select_symbol":
+	{
+		"height": 110.0,
+		"last_filter": "bax",
+		"selected_items":
+		[
+			[
+				"bax",
+				"box--gray"
+			]
+		],
+		"width": 486.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 271.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
